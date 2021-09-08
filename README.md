@@ -1,6 +1,7 @@
 # Getx_practice
 
-A new Flutter project.
+## 参考
+【記事】https://zenn.dev/mipo/scraps/1c15b5db71e146<br>
 
 ## Getting Started
 
